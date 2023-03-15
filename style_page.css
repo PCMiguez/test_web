@@ -1,0 +1,93 @@
+.titulo{
+    background-image: url("https://materialesecologicos.es/wp-content/uploads/2019/02/corcho-ecologico.jpg");
+    background-color: rgba(240, 248, 255, 0);
+    background-size: 100px;
+}
+
+.footer{
+font-size: 10px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+color: rgb(0, 0, 0);
+max-width:100% ;
+background-color: aliceblue;
+    
+}
+.mail{
+    font-size: 24px;
+    font-family:'Oswald', sans-serif;
+    padding-left: 25px;
+    color: rgb(0, 0, 0);
+    padding-right: 25px;
+    
+}
+
+p{
+    font-size: 24px;
+    font-family:'Oswald', sans-serif;
+    padding-left: 25px;
+    color: rgb(0, 0, 0);
+    padding-right: 25px;
+    
+}
+
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-decoration-line: underline;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
+.titulo{
+        background-color: rgb(0, 0, 0);
+        background-image: url("https://materialesecologicos.es/wp-content/uploads/2019/02/corcho-ecologico.jpg");
+       
+        margin: 5px;
+        border: 4px;
+        border-color: aquamarine;
+        width: 950px;
+        align-content: center;
+        
+}
+.Manolo{
+padding-left: 200px;
+border-radius: 50%;
+
+width: 400px;
+}
+
+body{
+    background-color: rgb(200, 230, 255);
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-abstracto-diseno-geometrico-ilustracion-vector-tesselation-geometrico-superficie-coloreada-estilo-ventana-cristal-colores-resumen-color-borroso_1217-687.jpg");
+       
+    padding: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 1000px;
+    border-color: azure;
+}
+ul{
+    font-size: 24px;
+    font-family:'Oswald', sans-serif;
+    padding-left: 60px;
+    color: rgb(0, 0, 0);
+    padding-right: 60px;
+}
+ol{
+    font-size: 20px;
+    font-family:'Oswald', sans-serif;
+    padding-left: 60px;
+    color: rgb(0, 0, 0);
+    padding-right: 60px;
+}
+img{
+    align-content: center;
+}
+.terminos{
+    text-align: center;
+}
+#copi{
+    font-size: 20px;
+}
